@@ -20,7 +20,7 @@ export const arrayPostagens = [
     {
       titulo: "Cantinho da Virada",
       subtitulo: "Virado à paulista, nada igual!",
-      data: "31/08/2022",
+      data: "10/09/2022",
       texto: "Venha provar um dos clássicos encontrados nos botecos e restaurantes que oferecem prato feito (o famoso PF). É feito com barriga de porco assada, banana à milanesa, couve e ovos fritos na manteiga."
     }
   ]
